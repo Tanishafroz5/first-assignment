@@ -22,6 +22,9 @@ section {
 .one-third-space {
   width: 33%;
 }
+.two-third-space{
+  width: 66%
+}
 
 .left-space {
   padding-left: 10%;
@@ -42,10 +45,6 @@ section {
   display: inline-block;
   margin-right: 10px;
   border-radius: 10px;
-}
-
-.banner-section  {
-  background-image: url(./images/shapes/shape-1.png);
 }
 
 .banner-image{
@@ -123,3 +122,66 @@ section {
   color: rgb(50, 50, 50);
   margin-bottom: 0;
 }
+.limit-photo{
+  width: 100%
+}
+.global-photo{
+  width: 100%
+}
+.develop-section-description-container{
+  margin-left: 50px;
+}
+.develop-bold{
+  font-size: 40px;
+  font-family:'Fjalla One', cursive; 
+}
+.develop-paragraph{
+  font-size: 18px;
+}
+.develop-section{
+background-image: url(./images/shapes/shape-1.png) ;
+background-repeat: no-repeat ;
+background-size: 200px;
+background-position-y: 35%;
+background-position-x: 5% ;
+}
+.global-photos{
+  width: 100%;
+}
+.global-bold{
+  font-size: 40px;
+  font-family:'Fjalla One', cursive;
+}
+.global-paragraph{
+  font-size: 18px;
+}
+.global-section{
+  background-image: url(./images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 200px;
+  background-position-x: 97%;
+  background-position-y: 100%;
+
+}
+.hard-work{
+  background-color:black;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: #e8ffe4;
+  margin-top: 50px;
+  
+
+}
+.hard-bold{
+  font-size: 40px;
+  font-family:'Fjalla One', cursive;
+
+}
+.hard-mission{
+  font-size: 35px;
+  font-family: 'Fjalla One', cursive;  
+  
+}
+
+
